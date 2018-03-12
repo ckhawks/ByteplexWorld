@@ -1,6 +1,7 @@
 package net.byteplex.ByteplexWorld;
 
 import org.bukkit.plugin.java.JavaPlugin;
+import net.byteplex.ByteplexCore.ChatFormat;
 
 public class ByteplexWorld extends JavaPlugin {
 

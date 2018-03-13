@@ -1,13 +1,13 @@
 package net.byteplex.ByteplexWorld;
 
+import net.byteplex.ByteplexCore.util.ChatFormat;
 import org.bukkit.plugin.java.JavaPlugin;
-import net.byteplex.ByteplexCore.ChatFormat;
 
 public class ByteplexWorld extends JavaPlugin {
 
     @Override
     public void onEnable(){
-
+        //Ian was here xd
     }
 
     @Override

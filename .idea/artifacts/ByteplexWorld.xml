@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ByteplexWorld">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="ByteplexWorld.jar">
+      <element id="module-output" name="ByteplexWorld" />
+    </root>
+  </artifact>
+</component>
